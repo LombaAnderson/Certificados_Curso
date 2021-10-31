@@ -1,5 +1,5 @@
 # Projeto Certificados_Curso
-[![NPM](https://img.shields.io/npm/l/react)]https://github.com/LombaAnderson/Certificados_Curso/blob/main/LICENSE
+[![NPM]https://github.com/LombaAnderson/Certificados_Curso/blob/main/LICENSE
 
 # Sobre o projeto
 
