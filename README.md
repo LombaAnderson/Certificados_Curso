@@ -1,5 +1,5 @@
 # Projeto Certificados_Curso
-![GitHub]https://github.com/LombaAnderson/Certificados_Curso/blob/main/LICENSE
+![GitHub](https://img.shields.io/github/license/LombaAnderson/Certificados_Curso)
 
 # Sobre o projeto
 
@@ -93,7 +93,7 @@ https://www.linkedin.com/in/anderson-lomba-140279142/
 
 Portfólio em andamento
 
-lombanderson.epizy.com
+https://www.lombanderson.epizy.com
 
 Créditos
 
