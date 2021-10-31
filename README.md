@@ -1,5 +1,5 @@
 # Projeto Certificados_Curso
-[![NPM]https://github.com/LombaAnderson/Certificados_Curso/blob/main/LICENSE
+![GitHub]https://github.com/LombaAnderson/Certificados_Curso/blob/main/LICENSE
 
 # Sobre o projeto
 
@@ -14,7 +14,7 @@ alternar as páginas com as informações dos certificados dos alunos.
 <img src="https://user-images.githubusercontent.com/60937513/139591317-c05d7f19-7ffb-4da0-bc3d-bc19dd1d92b5.png" width="400px" />
 </div>
 
-## Página dos certificados com a página do Json mostrado do lado direito
+## Página dos certificados 
 ![Projeto_Certificados_Curso2](https://user-images.githubusercontent.com/60937513/139591685-e3fa218e-f831-4de1-b90b-ab2b3dd303b2.png)
 
 
