@@ -95,4 +95,4 @@ https://www.lombanderson.epizy.com
 
 Créditos
 
-Agradecimentos primeiramente a Deus, o professor dos professores e ao professor Luciano e Vinicius por me ajudarem com seus conhecimentos. 
+Agradecimentos primeiramente a Deus, o professor dos professores, e ao professor Luciano e Vinicius por me ajudarem com seus conhecimentos. 
